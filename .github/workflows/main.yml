@@ -1,8 +1,5 @@
-import logging
-import random
-from telegram import Update
-from telegram.ext import (
-    ApplicationBuilder, 
+
+ ApplicationBuilder, 
     CommandHandler, 
     MessageHandler, 
     ContextTypes, 
