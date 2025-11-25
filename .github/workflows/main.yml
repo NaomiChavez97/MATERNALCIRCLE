@@ -1,11 +1,4 @@
 
- ApplicationBuilder, 
-    CommandHandler, 
-    MessageHandler, 
-    ContextTypes, 
-    filters
-)
-
 # 🚨 Importar la biblioteca de Groq
 from groq import Groq
 import os # Importar para una gestión más segura de claves (opcional)
